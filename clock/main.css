@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  background: black;
+  color: greenyellow;
+}
+
+#clock {
+  font-size: 90px;
+  font-weight: bold;
+  text-align: center;
+  margin: 100px;
+}
+
+.ramka {
+	border: 50px double greenyellow;
+	box-shadow: 0 0 80px green;
+	margin: 100px;
+}

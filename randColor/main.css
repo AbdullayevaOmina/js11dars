@@ -1,0 +1,11 @@
+#colorName {
+  font-family: Arial, sans-serif;
+	background-color: rgb(14, 13, 13);
+  font-size: 90px;
+  font-weight: bold;
+  text-align: center;
+  margin: 150px;
+  padding: 100px;
+  border: 20px double rgb(226, 217, 217);
+  border-radius: 20px;
+}
